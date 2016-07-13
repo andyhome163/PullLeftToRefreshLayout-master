@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\TestCode\PullLeftToRefreshLayout-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="D:\TestCode\PullLeftToRefreshLayout-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.0.0_4bad011ceb44717a38c0b8ca9f8b16a51cbe5e12.jar" />
+    </item>
+    <item
+        jar="D:\TestCode\PullLeftToRefreshLayout-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\TestCode\PullLeftToRefreshLayout-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_ad77c597377acd517f4ae8810437792aafe64d21.jar" />
+    </item>
+    <item
+        jar="D:\TestCode\PullLeftToRefreshLayout-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\TestCode\PullLeftToRefreshLayout-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_9a48bf688f554a95b144827c462fa7688357e89c.jar" />
+    </item>
+    <item
+        jar="D:\TestCode\PullLeftToRefreshLayout-master\app\build\intermediates\exploded-aar\PullLeftToRefreshLayout-master\lib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b50fd25405912a4c22d9614f9e7b062dc5f0e580">
+        <dex dex="D:\TestCode\PullLeftToRefreshLayout-master\app\build\intermediates\pre-dexed\debug\PullLeftToRefreshLayout-master-lib-unspecified_913c4ba3aa3d1ebdc8acb8342fe5f579d4883c36.jar" />
+    </item>
+    <item
+        jar="D:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\TestCode\PullLeftToRefreshLayout-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_4f90701538f12971a7b2387037bbbe1e949e61f8.jar" />
+    </item>
+    <item
+        jar="D:\TestCode\PullLeftToRefreshLayout-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\TestCode\PullLeftToRefreshLayout-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_9d53c3bc36d0549b2cb6a64d88e65478c200e615.jar" />
+    </item>
+    <item
+        jar="D:\TestCode\PullLeftToRefreshLayout-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\TestCode\PullLeftToRefreshLayout-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_91bf8dfe2892a6c1a52ed56d3b31229eeb8bb750.jar" />
+    </item>
+    <item
+        jar="D:\TestCode\PullLeftToRefreshLayout-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\TestCode\PullLeftToRefreshLayout-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_258a77e1e7b52a68610bdf8904f211dc53220cab.jar" />
+    </item>
+
+</items>
